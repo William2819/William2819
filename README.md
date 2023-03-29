@@ -24,3 +24,4 @@
   <a href = "https://wa.me/5512996819110"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/William2819/William2819/blob/output/github-contribution-grid-snake.svg)
