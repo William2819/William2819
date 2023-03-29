@@ -1,4 +1,4 @@
-## Olá, me chamo William e atualmente sou estudante de TI! 
+## Olá, seja Bem Vindo!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William2819&show_icons=true&theme=tokyonight&includ_all_commits=true"/>
