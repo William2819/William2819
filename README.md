@@ -1,4 +1,5 @@
-## Olá, seja Bem Vindo!
+## <div align="center">Olá, seja Bem Vindo!</div>
+### <div align="center">Atualmente estou desenvolvendo projetos pela universidade.</div>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William2819&show_icons=true&theme=tokyonight&includ_all_commits=true"/>
